@@ -1,0 +1,3 @@
+3;2560;teclado;1
+1;1000;mouse;2
+5;2000;monitores;3
